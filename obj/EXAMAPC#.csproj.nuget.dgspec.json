@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EXAMAPC#\\EXAMAPC#.csproj": {}
+    "d:\\EXAMAPC#\\EXAMAPC#.csproj": {}
   },
   "projects": {
-    "D:\\EXAMAPC#\\EXAMAPC#.csproj": {
+    "d:\\EXAMAPC#\\EXAMAPC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EXAMAPC#\\EXAMAPC#.csproj",
+        "projectUniqueName": "d:\\EXAMAPC#\\EXAMAPC#.csproj",
         "projectName": "EXAMAPC#",
-        "projectPath": "D:\\EXAMAPC#\\EXAMAPC#.csproj",
+        "projectPath": "d:\\EXAMAPC#\\EXAMAPC#.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\EXAMAPC#\\obj\\",
+        "outputPath": "d:\\EXAMAPC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
