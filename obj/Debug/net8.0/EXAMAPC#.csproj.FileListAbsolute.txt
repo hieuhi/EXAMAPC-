@@ -1,0 +1,14 @@
+D:\EXAMAPC#\bin\Debug\net8.0\EXAMAPC#.exe
+D:\EXAMAPC#\bin\Debug\net8.0\EXAMAPC#.deps.json
+D:\EXAMAPC#\bin\Debug\net8.0\EXAMAPC#.runtimeconfig.json
+D:\EXAMAPC#\bin\Debug\net8.0\EXAMAPC#.dll
+D:\EXAMAPC#\bin\Debug\net8.0\EXAMAPC#.pdb
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.AssemblyInfoInputs.cache
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.AssemblyInfo.cs
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.csproj.CoreCompileInputs.cache
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.dll
+D:\EXAMAPC#\obj\Debug\net8.0\refint\EXAMAPC#.dll
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.pdb
+D:\EXAMAPC#\obj\Debug\net8.0\EXAMAPC#.genruntimeconfig.cache
+D:\EXAMAPC#\obj\Debug\net8.0\ref\EXAMAPC#.dll
